@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+DA88 - Nhà Cái Uy Tín và Đẳng Cấp Hàng Đầu Tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`DA88 <http://jnew62.com/>`_ là một trong những nhà cái uy tín và có thâm niên lâu đời nhất tại thị trường Việt Nam, thu hút hàng triệu thành viên tham gia mỗi ngày. Với sự đa dạng trong các sản phẩm cá cược như thể thao, casino trực tuyến, slot game và xổ số, DA88 mang đến trải nghiệm công bằng và chân thực, như đang tham gia tại một sòng bạc hàng đầu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bên cạnh đó, DA88 còn có nhiều chương trình khuyến mãi hấp dẫn và chương trình VIP dành cho khách hàng trung thành, cùng với các tính năng hiện đại như chat live, xem phim và bóng đá miễn phí, giúp tạo nên một sân chơi đầy hấp dẫn và uy tín.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 134A P. Nguyễn Viết Xuân, Tổ dân phố 6, Hà Đông, Hà Nội, Việt Nam. 
 
-Contents
---------
+Phone: 0898.67.1980. 
 
-.. toctree::
+Email: da88jnew62.com@gmail.com. 
 
-   usage
-   api
+Website: http://jnew62.com/
+
+#da88 #nhacaida88 #trangchuda88 #dangkyda88 #linkda88
